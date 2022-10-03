@@ -1,0 +1,4 @@
+name: Lib Entities
+version: '${project.version}'
+main: fr.teamunc.libentities.entities_lib
+api-version: 1.19
